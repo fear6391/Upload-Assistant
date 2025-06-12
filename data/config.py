@@ -6,8 +6,8 @@ config = {
         # If you change any of these options, remove the #
         # -----------------------
 
-        "tmdb_api" : "tmdb_api key",
-        "imgbb_api" : "imgbb api key",
+        "tmdb_api" : "8048c6e0ea481749faef95a4596bd735",
+        "imgbb_api" : "2fa0cf44ab2d04eae79d14f1404d644f",
         "ptpimg_api" : "ptpimg api key",
         "lensdump_api" : "lensdump api key",
 
@@ -158,7 +158,7 @@ config = {
             "anon": True,
         },
         "TL": {
-            "announce_key": "TL announce key",
+            "announce_key": "37a13c8a1c3b8f8ae314b141f1e5bd8b",
         },
         "TDC" :{
             "api_key" : "TDC api key",
@@ -201,8 +201,8 @@ config = {
             "torrent_client" : "qbit",
             "qbit_url" : "http://127.0.0.1",
             "qbit_port" : "8080",
-            "qbit_user" : "username",
-            "qbit_pass" : "password",
+            "qbit_user" : "admin",
+            "qbit_pass" : "adminadmin",
 
             # Remote path mapping (docker/etc.) CASE SENSITIVE
             # "local_path" : "/LocalPath",
