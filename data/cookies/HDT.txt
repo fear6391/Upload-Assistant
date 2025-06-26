@@ -1,0 +1,8 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+hd-torrents.org	FALSE	/	FALSE	0	PHPSESSID	26jmba99rd3hjq3f56o68csi12
+hd-torrents.org	FALSE	/	FALSE	1785505433	uid	220014
+hd-torrents.org	FALSE	/	FALSE	1785505433	pass	c63a6bce0427c8bd867aff4ad9b19d84
+hd-torrents.org	FALSE	/	FALSE	1785505433	hashx	71c99149cb0a90d5bd5eb7e3fd55abd4
